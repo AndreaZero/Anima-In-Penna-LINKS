@@ -4,7 +4,6 @@ import insta from "../src/media/icons/insta.png";
 import spotify from "../src/media/icons/spotify.png";
 import youtube from "../src/media/icons/youtube.png";
 import cover from  "../src/media/cover.png";
-import frank from  "../src/media/frank.png";
 import animalogo from "../src/media/anima.png";
 
 function App() {
@@ -45,7 +44,7 @@ function App() {
           <img src={spotify} alt="cover"></img>
           </div>
           <br></br>
-          <iframe src="https://open.spotify.com/embed/track/6UbHyH0kiMOcXAqwkjqVag?utm_source=generator&theme=0" width="300px" height="80px" frameborder="1" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><br></br>
+          <iframe title="Spotify" src="https://open.spotify.com/embed/track/6UbHyH0kiMOcXAqwkjqVag?utm_source=generator&theme=0" width="300px" height="80px" frameborder="1" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><br></br>
           <br></br>
           <div className='link3'>
           ➡️ <a href="https://www.youtube.com/watch?v=3ryhGGVXfDs&ab_channel=FrankLaTanicaOfficial" alt="video">Guarda il visual video</a>
