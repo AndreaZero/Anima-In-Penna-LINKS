@@ -15,7 +15,7 @@ function App() {
           <div className='animalogo'>
             <img src={animalogo} alt="anima"></img>
           </div>
-          <h3>il nuovo album di Frank La Tanica. <br></br>Fuori il 9 settembre 2022<br></br>
+          <h3>Il nuovo album di Frank La Tanica. <br></br>Fuori il 9 settembre 2022<br></br>
           Segui i link qui sotto per preordinare la tua copia fisica<br></br>
           e ascoltare in anteprima il singolo estratto "Quello che conta".</h3>
         </div>
