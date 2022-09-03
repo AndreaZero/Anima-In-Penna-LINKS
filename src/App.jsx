@@ -5,6 +5,7 @@ import spotify from "../src/media/icons/spotify.png";
 import youtube from "../src/media/icons/youtube.png";
 import cover from  "../src/media/cover.png";
 import animalogo from "../src/media/anima.png";
+import post from "../src/media/post.png";
 
 function App() {
   return (
@@ -37,7 +38,9 @@ function App() {
           <a href="https://wall.cdclick-europe.com/projects/Anima_in_Penna" alt="cdclick"><img src={cover} alt="cover"></img></a></div>
           </div>
           <br></br>
-          
+          <div className='instapost'>
+            <a href="https://www.instagram.com/p/CiCxyr0opbk/"><img src={post} alt="post"></img></a>
+          </div>
           <br></br>
           <div className='singoli'>
           <div className='App-titlelink'>
